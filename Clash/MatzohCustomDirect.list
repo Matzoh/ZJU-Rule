@@ -1,3 +1,8 @@
 # 走直连的配置
 
 DOMAIN-SUFFIX,tailscale.io
+DOMAIN-SUFFIX,dontad.com
+
+
+# ip
+IP-CIDR,198.211.27.222/32,no-resolve
