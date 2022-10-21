@@ -29,6 +29,7 @@
 # 直连列表
 
 # MyList
+(^|\.)dontad\.com$
 (^|\.)13th\.tech$
 (^|\.)423down\.com$
 (^|\.)chaipip\.com$
