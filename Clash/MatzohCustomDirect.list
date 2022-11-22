@@ -3,6 +3,8 @@
 DOMAIN-SUFFIX,tailscale.io
 DOMAIN-SUFFIX,dontad.com
 DOMAIN-SUFFIX,ugdtimg.com
+DOMAIN-SUFFIX,m5yu.com
+
 
 # ip
 IP-CIDR,198.211.27.222/32,no-resolve
