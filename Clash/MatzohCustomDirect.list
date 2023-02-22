@@ -1,9 +1,7 @@
 # 走直连的配置
 
 DOMAIN-SUFFIX,tailscale.io
-DOMAIN-SUFFIX,dontad.com
 DOMAIN-SUFFIX,ugdtimg.com
-DOMAIN-SUFFIX,m5yu.com
 
 
 # ip
