@@ -9,4 +9,4 @@ IP-CIDR,198.211.27.222/32,no-resolve
 
 
 # process
-PROCESS-NAME,NeatDownloadManager
+#PROCESS-NAME,NeatDownloadManager
