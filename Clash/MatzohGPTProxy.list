@@ -6,3 +6,6 @@ DOMAIN-SUFFIX,platform.openai.com
 DOMAIN-SUFFIX,api.openai.com
 # Add ai.com
 DOMAIN-SUFFIX,ai.com
+
+# azure
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
