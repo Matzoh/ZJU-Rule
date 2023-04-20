@@ -4,6 +4,16 @@ DOMAIN-SUFFIX,tailscale.io
 DOMAIN-SUFFIX,ugdtimg.com
 DOMAIN-SUFFIX,332999.xyz
 
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,bnappzh.co
+DOMAIN-SUFFIX,bnbzh.ac
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,appsflayer.com
+
 # ip
 IP-CIDR,198.211.27.222/32,no-resolve
 
