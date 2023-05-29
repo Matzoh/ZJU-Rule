@@ -9,3 +9,6 @@ DOMAIN-SUFFIX,ai.com
 
 # azure
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+
+DOMAIN-SUFFIX,sentry.io,REJECT
+DOMAIN-SUFFIX,openaicom.imgix.net,REJECT
